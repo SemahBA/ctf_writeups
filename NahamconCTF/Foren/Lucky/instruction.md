@@ -2,7 +2,7 @@
 
 
 ## Cracking the passphrase : 
-	sudo ./grond.sh -t4 -w ~/Documents/Tools/JohnTheRipper/rockyou.txt -d lucky.img
+	sudo ./grond.sh -t4 -w ~rockyou.txt -d lucky.img
 	password cracked => iloveyou
 
 	sudo losetup /dev/loop30 lucky.img
