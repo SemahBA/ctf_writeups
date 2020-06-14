@@ -3,7 +3,7 @@
 ## easy way : 
 	strings manure |grep -i 'flag{'
 ## or :
-foremost manure 
+	foremost manure 
 and then go to extracted directory and go to png directory 
 png file that has the flag 
 
