@@ -1,6 +1,6 @@
-#instructions : 
+# instructions : 
 
-##identify the os :
+## identify the os :
 	vol.py -f memdump.raw imageinfo 
 	
 	```
@@ -20,8 +20,8 @@
      Image local date and time : 2020-04-20 14:16:55 -0700
 	```
 
-##looking for the flag : (looking for typing commands) 
+## looking for the flag : (looking for typing commands) 
 either : using cmdscan or consoles
 echo JCTF{nice_volatility_tricks_bro}
 
-#flag : JCTF{nice_volatility_tricks_bro}
+# flag : JCTF{nice_volatility_tricks_bro}
