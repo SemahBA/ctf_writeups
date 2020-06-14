@@ -1,0 +1,5 @@
+Script : 
+while read line ; do echo $line ; done < flag.txt
+
+flag :
+flag{congrats_you_just_escaped_alkatraz}

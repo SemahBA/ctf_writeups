@@ -1,0 +1,5 @@
+Script : 
+for f in `ls -lah`; do cat $f; done
+
+flag:
+flag{we_should_have_been_worried_about_u2k_not_y2k}
