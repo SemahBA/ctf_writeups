@@ -24,4 +24,4 @@
 either : using cmdscan or consoles
 echo JCTF{nice_volatility_tricks_bro}
 
-# flag : JCTF{nice_volatility_tricks_bro}
+### flag : JCTF{nice_volatility_tricks_bro}
