@@ -1,6 +1,6 @@
 # instructions 
 
-tried stegolsb wavsteg and go no result even that i tried changing lsb_count 
+tried stegolsb wavsteg and got no results even that i tried changing lsb_count 
 then i got wav-steg tool https://github.com/pavanchhatpar/wav-steg-py
 
 even tho i think that stegolsb and that python script do the same things but i got lucky to get the flag 
