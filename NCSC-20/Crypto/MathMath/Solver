@@ -1,0 +1,30 @@
+#the random number chosen by Alice
+R=98454381020307706389509314898646458753593071
+
+#Alice Old Message 
+N=n1n2n3......nm    
+
+M=N*999   
+#which also equals to 1000*N-N
+
+so right now we have M=1000*N-N
+
+=>  n1 n2 n3 n4 ....... nm    0        0     0
+  -
+             n1 n2 n3 ....    n(m-2)  n(m-1)  nm
+   ----------------------------------------------
+ =  n1 n2 n3 (n4-n1) (n5-n2) ............     (10-1-n(m-1))  (10-nm)
+
+
+#so in this case P which is the sum of the previous operation
+P=10+9+9-1=27
+
+#So the New_M is 
+New_M=27*R
+
+#to get the New_M : hex(New_M)[2:-1].decode('hex')
+
+New_M is : "w3lc0m3_t0_c0ngr3s5"
+
+
+#The Flag is  : Securinets{w3lc0m3_t0_c0ngr3s5}

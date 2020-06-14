@@ -1,0 +1,104 @@
+#flag +=chr(x[i])
+***	1st system 	***
+x=4 (mod 7)
+x=3 (mod 8)
+x=4 (mod 9)
+
+***	2nd system	***
+x=10 (mod 12)
+x=2 (mod 5)
+x=6 (mod 19)
+
+***	3rd system	 ***
+x=4 (mod 8)
+x=6 (mod 13)
+x=9 (mod 15)
+
+***	4th system	 ***
+x=11 (mod 14)
+x=5 (mod 9)
+x=7 (mod 11)
+***	5th system	 ***
+x=5 (mod 50)
+x=13 (mod 23)
+x=6 (mod 11)
+
+***	6th system	 ***
+x=1 (mod 2)
+x=2 (mod 3)
+x=3 (mod 5)
+
+***	7th system	 ***
+x=11 (mod 14)
+x=5 (mod 9)
+x=7 (mod 11)
+
+***	8th system	 ***
+x=3 (mod 15)
+x=12 (mod 16)
+x=6 (mod 17)
+
+***	9th system	 ***
+x=3 (mod 45)
+x=2 (mod 46)
+x=1 (mod 47)
+
+***	10th system	 ***
+x=1 (mod 13)
+x=4 (mod 19)
+x=3 (mod 23)
+
+***	11th system	 ***
+x=7 (mod 11)
+x=6 (mod 9)
+x=3 (mod 8)
+
+***	12th system	 ***
+x=11 (mod 14)
+x=5 (mod 9)
+x=7 (mod 11)
+
+***	13th system	 ***
+x=5 (mod 50)
+x=13 (mod 23)
+x=6 (mod 11)
+
+***	14th system	 ***
+x=3 (mod 4)
+x=3 (mod 7)
+x=11 (mod 13)
+
+***	15th system	 ***
+x=28 (mod 41)
+x=35 (mod 75)
+x=18 (mod 23)
+
+***	16th system	 ***
+x=4 (mod 7)
+x=3 (mod 9)
+x=7 (mod 16)
+
+***	17th system	 ***
+x=38 (mod 39)
+x=4 (mod 28)
+x=1 (mod 5)
+
+***	18th system	 ***
+x=11 (mod 14)
+x=5 (mod 9)
+x=7 (mod 11)
+
+***	19th system	 ***
+x=5 (mod 50)
+x=13 (mod 23)
+x=6 (mod 11)
+
+***	20th system	 ***
+x=38 (mod 39)
+x=4 (mod 28)
+x=1 (mod 5)
+
+***	21th system	 ***
+x=15 (mod 16)
+x=11 (mod 13)
+x=3 (mod 15)
