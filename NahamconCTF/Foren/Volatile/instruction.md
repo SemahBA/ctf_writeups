@@ -22,6 +22,7 @@
 
 ## looking for the flag : (looking for typing commands) 
 either : using cmdscan or consoles
-echo JCTF{nice_volatility_tricks_bro}
+and we get : 
+	echo JCTF{nice_volatility_tricks_bro}
 
 ### flag : JCTF{nice_volatility_tricks_bro}
