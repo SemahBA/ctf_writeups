@@ -7,8 +7,6 @@
 * 0 Organization 
 * 0 response from admins
 * 2hours BLIND HOUR
-* Freezing the Scoreboard?
-* SHARING A FREEZING SCOREBOARD
 
 ## I have been enjoying the last HackZone Editions, but this one? Not at all, this year organizer ruined the legacy that the one before this "kinda admin" have worked for. Anyway, this is the support and kind words of their admin ^^ 
 
