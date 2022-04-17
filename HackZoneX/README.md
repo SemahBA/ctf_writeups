@@ -5,7 +5,6 @@
 ## TL;DR
 * Hints everywhere, for solved challenges, and sharing the solution! YES, solution during a CTF from the author ^^ 
 * Stolen web challenges from Hackthebox Without even deleting the meta tag containing the ORIGINAL author
-* Wrong Crypto Challenge 
 * 0 Organization
 * 0 response from admins
 * 2hours BLIND HOUR
