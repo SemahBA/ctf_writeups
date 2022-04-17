@@ -1,6 +1,17 @@
 # HackZoneX Forensics Writeup
 
-## The challenges were revenge of last years challenges that were solved by simple strings command. This Year, The solution was already published by the AUTHOR DURING THE CTF COMPETITION! WHY? WHO KNOWS!
+## The challenges were revenge of last years challenges that were solved by simple strings command. This Year, The solution was already published by the AUTHOR DURING THE CTF COMPETITION! WHY? WHO KNOWS! 
+
+## TL;DR
+* Hints everywhere, for solved challenges, and sharing the solution! YES, solution during a CTF from the author ^^
+* Organization 0
+* 0 response from admins
+
+## I have been enjoying the last HackZone Editions, but this one? Not at all, this year organizer ruined the legacy that the one before this "kinda admin" have worked for. Anyway, this is the support and kind words of their admin ^^ 
+
+![admin](https://i.ibb.co/Q98Pp4p/admin.png)
+
+
 
 ## Before Explaining the challenges, I would like to thank my teammate *Cyb3rdoctor*.  
 
