@@ -3,10 +3,13 @@
 ## The challenges were revenge of last years challenges that were solved by simple strings command. This Year, The solution was already published by the AUTHOR DURING THE CTF COMPETITION! WHY? WHO KNOWS! 
 
 ## TL;DR
-* Hints everywhere, for solved challenges, and sharing the solution! YES, solution during a CTF from the author ^^
-* 0 Organization 
+* Hints everywhere, for solved challenges, and sharing the solution! YES, solution during a CTF from the author ^^ 
+* Stolen web challenges from Hackthebox Without even deleting the meta tag containing the ORIGINAL author
+* Wrong Crypto Challenge 
+* 0 Organization
 * 0 response from admins
 * 2hours BLIND HOUR
+* Freezing the Scoreboard?
 
 ## I have been enjoying the last HackZone Editions, but this one? Not at all, this year organizer ruined the legacy that the one before this "kinda admin" have worked for. Anyway, this is the support and kind words of their admin ^^ 
 
